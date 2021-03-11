@@ -1,10 +1,10 @@
-<h2>Ola eu Eduardo </h2>
+<h2>Ola eu sou Eduardo </h2>
 
 ### Contatos
 
 <p align="center">
   <a href="mailto:eduardoduraes.bsi@gmail.com" target="_blank"><img src="/images/svg/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/eduardo-ribeiro-dur%C3%A3es-3b90348a/" target="_blank"><img src="/images/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/eduardo-ribeiro-dur%C3%A3es-3b90348a/" target="_blank"><img src="/images/svg/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
 
 <summary><b>Git Status</b> </summary>
@@ -13,9 +13,9 @@
 
 ## Estudando atualmente
 
-<img src="/image/png/visual-studio-code.png" alt="vscode" style="vertical-align:top; margin:4px"> 
-<img src="/image/png/react.png" alt="react" style="vertical-align:top; margin:4px"> 
-<img src="/image/png/javascript" alt="js" style="vertical-align:top; margin:4px"> 
-<img src="/image/png/nodejs" alt="nodejs" style="vertical-align:top; margin:4px"> 
-<img src="/image/png/typescript" alt="typescript" style="vertical-align:top; margin:4px"> 
-<img src="/image/svg/yarn.svg" alt="yarn" style="vertical-align:top; margin:4px">
+<img src="/images/png/visual-studio-code.png" alt="vscode" style="vertical-align:top; margin:4px"> 
+<img src="/images/png/react.png" alt="react" style="vertical-align:top; margin:4px"> 
+<img src="/images/png/javascript" alt="js" style="vertical-align:top; margin:4px"> 
+<img src="/images/png/nodejs" alt="nodejs" style="vertical-align:top; margin:4px"> 
+<img src="/images/png/typescript" alt="typescript" style="vertical-align:top; margin:4px"> 
+<img src="/images/svg/yarn.svg" alt="yarn" style="vertical-align:top; margin:4px">
