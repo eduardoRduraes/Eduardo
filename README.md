@@ -13,9 +13,9 @@
 
 ## Estudando atualmente
 
-<img src="/images/png/visual-studio-code.png" alt="vscode" style="vertical-align:top; margin:4px"> 
-<img src="/images/png/react.png" alt="react" style="vertical-align:top; margin:4px"> 
-<img src="/images/png/javascript" alt="js" style="vertical-align:top; margin:4px"> 
-<img src="/images/png/nodejs" alt="nodejs" style="vertical-align:top; margin:4px"> 
-<img src="/images/png/typescript" alt="typescript" style="vertical-align:top; margin:4px"> 
-<img src="/images/svg/yarn.svg" alt="yarn" style="vertical-align:top; margin:4px">
+<img src="/images/png/visual-studio-code.png" alt="vscode" style="vertical-align:top; width:10px; height: 10px; margin:4px"> 
+<img src="/images/png/react.png" alt="react" style="vertical-align:top; width:10px; height: 10px; margin:4px"> 
+<img src="/images/png/javascript.png" alt="js" style="vertical-align:top; width:10px; height: 10px; margin:4px"> 
+<img src="/images/png/nodejs.png" alt="nodejs" style="vertical-align:top; width:10px; height: 10px; margin:4px"> 
+<img src="/images/png/typescript.png" alt="typescript" style="vertical-align:top; width:10px; height: 10px; margin:4px"> 
+<img src="/images/svg/yarn.svg" alt="yarn" style="vertical-align:top; width:10px; height: 10px; margin:4px">
