@@ -2,9 +2,10 @@
 
 ### Contatos
 
-<p align="center">
+<p align="left">
   <a href="mailto:eduardoduraes.bsi@gmail.com" target="_blank"><img src="/images/svg/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/eduardo-ribeiro-dur%C3%A3es-3b90348a/" target="_blank"><img src="/images/svg/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://app.rocketseat.com.br/me/eduardo-ribeiro-duraes-1567438965" target="_blank"><img src="/images/png/rocketseat.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
 
 <summary><b>Git Status</b> </summary>
