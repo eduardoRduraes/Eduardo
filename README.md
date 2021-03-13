@@ -10,6 +10,9 @@
   <a href="https://app.rocketseat.com.br/me/eduardo-ribeiro-duraes-1567438965" target="_blank"><img src="/images/png/rocketseat.png" width="30px" alt="Rockeseat"></a> &nbsp; &nbsp;
 </p>
 
+### :octocat: Git Status
+
+![eduardoRduraes GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Estudando atualmente
 
