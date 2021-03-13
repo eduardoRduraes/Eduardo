@@ -1,6 +1,6 @@
 <h2>Ola eu sou Eduardo </h2>
 <p>
-  Estou cursando bacharel de Sistema de Informação na instituto integrado IESGO, no momento estou focado em aprender React, NODE/express, HTML, CSS3. </br>
+  Estou cursando bacharel de Sistema de Informação no instituto integrado IESGO, no momento estou focado em aprender React, NODE/express, HTML, CSS3. </br>
 </p>
 
 ## Vamos ser amigos
