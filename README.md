@@ -12,7 +12,7 @@
 
 ### :octocat: Git Status
 
-![eduardoRduraes GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoRduraes&show_icons=true&theme=radical)
+![eduardoRduraes GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoRduraes&show_icons=true&theme=dark)
 
 ## Estudando atualmente
 
