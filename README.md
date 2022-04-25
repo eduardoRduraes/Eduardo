@@ -3,7 +3,7 @@
   Estou cursando bacharel de Sistema de Informação no instituto integrado IESGO, no momento estou focado em aprender React, NODE/express, HTML, CSS3. </br>
 </p>
 
-## Vamos ser amigos
+## Status
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-ribeiro-dur%C3%A3es-3b90348a/" target="_blank"><img src="/images/svg/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
