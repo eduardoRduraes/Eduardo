@@ -1,34 +1,66 @@
-<h2>Ola eu sou Eduardo </h2>
-<p>
-  Estou cursando bacharel de Sistema de Informação no instituto integrado IESGO, no momento estou focado em aprender React, NODE/express, HTML, CSS3. </br>
-</p>
 
-## Status
+## Apresentação
+<h1 align="left">Olá 👋, Meu nome é Eduardo Ribeiro Duraes</h1>
+<h3 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar e estou extremamente interessado em ingressar no mercado de desenvolvimento de software. Meu objetivo é contribuir para projetos inovadores e desafiadores, onde posso aplicar e expandir minhas habilidades técnicas.</h3>
+</br>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-ribeiro-dur%C3%A3es-3b90348a/" target="_blank"><img src="/images/svg/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://app.rocketseat.com.br/me/eduardo-ribeiro-duraes-1567438965" target="_blank"><img src="/images/png/rocketseat.png" width="30px" alt="Rockeseat"></a> &nbsp; &nbsp;
-</p>
+## Conecte-se comigo
 
-### :octocat: Git Status
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-ribeiro-dur%C3%A3es-3b90348a/)
+[![Discord](https://img.shields.io/badge/Discord-123?logo=discord&style=for-the-badge)](https://discord.gg/3duard0#4143)
 
-![eduardoRduraes GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoRduraes&show_icons=true&theme=dark)
 
-## Estudando atualmente
+## Habilidades (basic level)
 
-<code><img height="30" src="/images/png/visual-studio-code.png" alt="vscode" style="vertical-align:top; margin:4px"> </code>
-<code><img height="30" src="/images/png/html.png" alt="html" style="vertical-align:top; margin:4px"> </code>
-<code><img height="30" src="/images/png/css.png" alt="css" style="vertical-align:top; margin:4px"> </code>
-<code><img height="30" src="/images/png/react.png" alt="react" style="vertical-align:top; margin:4px"> </code>
-<code><img height="30" src="/images/png/javascript.png" alt="js" style="vertical-align:top; margin:4px"> </code>
-<code><img height="30" src="/images/png/nodejs.png" alt="nodejs" style="vertical-align:top; margin:4px"> </code>
-<code><img height="30" src="/images/png/typescript.png" alt="typescript" style="vertical-align:top; margin:4px"> </code>
-<code><img height="30" src="/images/svg/yarn.svg" alt="yarn" style="vertical-align:top; margin:4px"></code>
+### Linguagens de marcação e estilo
+
+![HTML5](https://img.shields.io/badge/HTML5-123?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-123?style=for-the-badge&logo=css3&logoColor=264CE4)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-123?logo=typescript&style=for-the-badge)
+
+
+### Linguagens de programação
+
+![JavaScript](https://img.shields.io/badge/JavaScript-123?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-123?logo=java&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-123?logo=php&style=for-the-badge)
+
+
+### Blibliotecas e Frameworks
+
+![React](https://img.shields.io/badge/React-123?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-123?style=for-the-badge&logo=angular)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-123?style=for-the-badge&logo=springboot)
+![NodeJS](https://img.shields.io/badge/Node.js-123?logo=node.js&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-123?logo=express.js&style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-123?style=for-the-badge&logo=electron)
+![Bootstrap](https://img.shields.io/badge/bootstrap-123?style=for-the-badge&logo=bootstrap)
+
+
+### Ferramentas
+
+![React](https://img.shields.io/badge/React-123?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-123?style=for-the-badge&logo=angular)
+
+
+### Sistema Operacionais
+![Windows](https://img.shields.io/badge/Windows-123?logo=windows&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-123?logo=linux&logoColor=white&style=for-the-badge)
+
+
+### Outras habilidades
+
+![Git](https://img.shields.io/badge/Git-123?style=for-the-badge&logo=Git)
+[![GitHub](https://img.shields.io/badge/GitHub-123?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+
+### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
+
+[![Linguagens](https://github-readme-stats.vercel.app/api?username=eduardoRduraes&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/eduardoRduraes?tab=repositories)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoRduraes&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/eduardoRduraes?tab=repositories)
 
 ### Contatos
 
-<p align="left">
-  <a href="mailto:eduardoduraes.bsi@gmail.com" target="_blank"><img src="/images/svg/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/eduardo-ribeiro-dur%C3%A3es-3b90348a/" target="_blank"><img src="/images/svg/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://t.me/EduardoRDuraes" target="_blank"><img src="/images/svg/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-123?logo=gmail&style=for-the-badge)](mailto:eduardoduraes.bsi@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-123?logo=discord&style=for-the-badge)](https://discord.gg/3duard0#4143)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-123?logo=whatsapp&style=for-the-badge)](http://wa.me/5538999142447)
